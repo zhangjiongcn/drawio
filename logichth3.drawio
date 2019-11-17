@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-17T06:38:16.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="LSBUeDa0RqNn3VzkrR8M" version="12.2.6" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-17T06:39:46.627Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="bH9jwjwDExeyUK_jD1zc" version="12.2.6" type="github" pages="3">
   <diagram id="3_ZjLAeTTAKWYFZcqTrT" name="Page-1">
     <mxGraphModel dx="992" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -66,6 +66,15 @@
         </mxCell>
         <mxCell id="QQjnM9llz2zOyUq-kUEm-6" value="容联云——虚拟号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QQjnM9llz2zOyUq-kUEm-1">
           <mxGeometry x="120" y="280" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="QQjnM9llz2zOyUq-kUEm-7" value="创蓝——国际短信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QQjnM9llz2zOyUq-kUEm-1">
+          <mxGeometry x="120" y="360" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="QQjnM9llz2zOyUq-kUEm-8" value="飞常准——航班" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QQjnM9llz2zOyUq-kUEm-1">
+          <mxGeometry x="120" y="440" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="QQjnM9llz2zOyUq-kUEm-9" value="大汉三通——短信" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="QQjnM9llz2zOyUq-kUEm-1">
+          <mxGeometry x="120" y="520" width="120" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>

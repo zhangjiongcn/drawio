@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-17T07:01:02.851Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="imTAFjT5A_eFoqK5v6-h" version="12.2.6" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-17T07:01:53.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="9bEaanbLCGZMJt3d2O0n" version="12.2.6" type="github" pages="3">
   <diagram id="3_ZjLAeTTAKWYFZcqTrT" name="Page-1">
     <mxGraphModel dx="992" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -36,8 +36,20 @@
         <mxCell id="U-_pUKBOb-ysk7fePvCg-12" value="有限额" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="280" width="80" height="40" as="geometry"/>
         </mxCell>
+        <mxCell id="IFXiHhscLbh6xeU0na3Q-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFXiHhscLbh6xeU0na3Q-1" target="IFXiHhscLbh6xeU0na3Q-2">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="IFXiHhscLbh6xeU0na3Q-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IFXiHhscLbh6xeU0na3Q-1" target="IFXiHhscLbh6xeU0na3Q-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="IFXiHhscLbh6xeU0na3Q-1" value="限期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="40" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IFXiHhscLbh6xeU0na3Q-2" value="无限期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="120" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="IFXiHhscLbh6xeU0na3Q-5" value="有限期" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="120" width="80" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>

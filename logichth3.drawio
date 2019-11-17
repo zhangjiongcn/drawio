@@ -1,1 +1,27 @@
-<mxfile host="www.draw.io" modified="2019-11-17T06:26:49.781Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="Twa_x6UUlVNGvIvjI0Jr" version="12.2.6" type="github" pages="1"><diagram id="3_ZjLAeTTAKWYFZcqTrT" name="Page-1">ddG9DoMgEADgp2FXSGqdrW0XJ4fORK5Cgp5BGm2fvprTWmK7kOO7g+OHiawZL052ukAFlvFIjUycGOdpyqdxhidBEgmC2hlFFG9QmhcsGC36MAr6oNAjWm+6ECtsW6h8YNI5HMKyO9qwaydr2EFZSbvXm1Fekx55svkVTK3XzvEhpUwj1+LlJr2WCocvEjkTmUP0FDVjBnZ+u/VdaN35T/ZzMAet/7FgCra9p0nwQSJ/Aw==</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-17T06:29:17.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="VhCkRqqd5OzhsuTQAOnE" version="12.2.6" type="github" pages="1">
+  <diagram id="3_ZjLAeTTAKWYFZcqTrT" name="Page-1">
+    <mxGraphModel dx="992" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="U-_pUKBOb-ysk7fePvCg-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="U-_pUKBOb-ysk7fePvCg-1" target="U-_pUKBOb-ysk7fePvCg-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="120" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U-_pUKBOb-ysk7fePvCg-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U-_pUKBOb-ysk7fePvCg-1" target="U-_pUKBOb-ysk7fePvCg-4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="U-_pUKBOb-ysk7fePvCg-1" value="费用" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="120" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="U-_pUKBOb-ysk7fePvCg-3" value="预付费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="120" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="U-_pUKBOb-ysk7fePvCg-4" value="后付费" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="120" width="80" height="40" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

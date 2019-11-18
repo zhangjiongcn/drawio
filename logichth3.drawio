@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-18T05:32:37.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="Xe923BEFiZP6l8l7Cz8O" version="12.2.6" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2019-11-18T05:33:51.964Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="Ccmma6GpJydiL7J0c3g4" version="12.2.6" type="github" pages="3">
   <diagram id="3_ZjLAeTTAKWYFZcqTrT" name="Page-1">
     <mxGraphModel dx="1392" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -131,6 +131,33 @@
         </mxCell>
         <mxCell id="Ul0hcpBWriDefFd2aIzM-3" value="大汉三通" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rxaeanNLdmHs-6CwDDip-1">
           <mxGeometry x="280" y="120" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ul0hcpBWriDefFd2aIzM-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rxaeanNLdmHs-6CwDDip-1" source="Ul0hcpBWriDefFd2aIzM-5" target="Ul0hcpBWriDefFd2aIzM-6">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ul0hcpBWriDefFd2aIzM-5" value="地图" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rxaeanNLdmHs-6CwDDip-1">
+          <mxGeometry x="160" y="200" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ul0hcpBWriDefFd2aIzM-6" value="高德" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rxaeanNLdmHs-6CwDDip-1">
+          <mxGeometry x="280" y="200" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ul0hcpBWriDefFd2aIzM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="rxaeanNLdmHs-6CwDDip-1" source="Ul0hcpBWriDefFd2aIzM-8" target="Ul0hcpBWriDefFd2aIzM-9">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ul0hcpBWriDefFd2aIzM-8" value="APP推送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rxaeanNLdmHs-6CwDDip-1">
+          <mxGeometry x="160" y="280" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ul0hcpBWriDefFd2aIzM-9" value="极光推送" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rxaeanNLdmHs-6CwDDip-1">
+          <mxGeometry x="280" y="280" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ul0hcpBWriDefFd2aIzM-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="rxaeanNLdmHs-6CwDDip-1" source="Ul0hcpBWriDefFd2aIzM-10" target="Ul0hcpBWriDefFd2aIzM-11">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ul0hcpBWriDefFd2aIzM-10" value="虚拟号" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rxaeanNLdmHs-6CwDDip-1">
+          <mxGeometry x="160" y="400" width="80" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="Ul0hcpBWriDefFd2aIzM-11" value="容联云" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="rxaeanNLdmHs-6CwDDip-1">
+          <mxGeometry x="280" y="400" width="80" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>

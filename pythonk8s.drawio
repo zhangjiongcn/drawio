@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-29T08:44:22.720Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="l4PmTiYRhOxo9nvQ2Ppu" version="12.3.3" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-29T08:50:44.870Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="WXx79xSF9w2vnAC5SF9X" version="12.3.3" type="github" pages="1">
   <diagram id="Ha9h09DHc0lr-uTvmzYE" name="Page-1">
     <mxGraphModel dx="1408" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,8 +10,20 @@
         <mxCell id="QODhJMUOf9WbVqSvLGXX-1" value="&lt;font style=&quot;line-height: 170%&quot;&gt;&lt;font color=&quot;#6c8ebf&quot;&gt;docker hub&lt;br&gt;centos:7.6.1810&lt;br&gt;202MB&lt;/font&gt;&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="40" width="120" height="80" as="geometry"/>
         </mxCell>
+        <mxCell id="QODhJMUOf9WbVqSvLGXX-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QODhJMUOf9WbVqSvLGXX-2" target="QODhJMUOf9WbVqSvLGXX-5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
         <mxCell id="QODhJMUOf9WbVqSvLGXX-2" value="&lt;font color=&quot;#ffffff&quot; style=&quot;line-height: 170%&quot;&gt;artifactory&lt;br&gt;centos76:v1&lt;br&gt;202MB&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="320" y="160" width="120" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="QODhJMUOf9WbVqSvLGXX-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QODhJMUOf9WbVqSvLGXX-5" target="QODhJMUOf9WbVqSvLGXX-7">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="QODhJMUOf9WbVqSvLGXX-5" value="&lt;font color=&quot;#ffffff&quot; style=&quot;line-height: 170%&quot;&gt;artifactory&lt;br&gt;centos76pythontools:v1&lt;br&gt;508MB&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="160" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="QODhJMUOf9WbVqSvLGXX-7" value="&lt;font color=&quot;#ffffff&quot; style=&quot;line-height: 170%&quot;&gt;artifactory&lt;br&gt;centos76python375:v1&lt;br&gt;918MB&lt;br&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#3399FF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="400" width="160" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>

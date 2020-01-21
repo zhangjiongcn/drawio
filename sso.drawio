@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T07:12:42.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="PzcRPo-bM9My8kHXh8pT" version="12.5.5" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-01-21T07:15:17.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="qXd32KdWrNgBtga9Q8ix" version="12.5.5" type="github" pages="3">
   <diagram id="GSeuxdUgdALXQm2dhYr3" name="Page-1">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="GhPrpsFxUbJerYD3CBTC-0"/>
         <mxCell id="GhPrpsFxUbJerYD3CBTC-1" parent="GhPrpsFxUbJerYD3CBTC-0"/>
         <mxCell id="GhPrpsFxUbJerYD3CBTC-2" value="sso 2.0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;dashed=1;" vertex="1" parent="GhPrpsFxUbJerYD3CBTC-1">
-          <mxGeometry x="380" y="40" width="80" height="80" as="geometry"/>
+          <mxGeometry x="400" y="120" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="GhPrpsFxUbJerYD3CBTC-3" value="云原生" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="GhPrpsFxUbJerYD3CBTC-1">
           <mxGeometry x="160" y="200" width="40" height="40" as="geometry"/>
@@ -179,8 +179,8 @@
             <mxPoint x="580" y="90" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-Nb03gLzpEdLl7TGCnP-13" value="高性能" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="t-Nb03gLzpEdLl7TGCnP-1">
-          <mxGeometry x="560" y="200" width="40" height="40" as="geometry"/>
+        <mxCell id="t-Nb03gLzpEdLl7TGCnP-13" value="新的交互界面" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="t-Nb03gLzpEdLl7TGCnP-1">
+          <mxGeometry x="520" y="200" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="t-Nb03gLzpEdLl7TGCnP-14" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="t-Nb03gLzpEdLl7TGCnP-1" source="t-Nb03gLzpEdLl7TGCnP-2" target="t-Nb03gLzpEdLl7TGCnP-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

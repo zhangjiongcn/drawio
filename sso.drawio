@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-21T07:15:17.019Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="qXd32KdWrNgBtga9Q8ix" version="12.5.5" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-01-21T07:19:09.396Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="9fwbfjjdFK6phPnk4Opw" version="12.5.5" type="github" pages="3">
   <diagram id="GSeuxdUgdALXQm2dhYr3" name="Page-1">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -135,13 +135,10 @@
           <mxGeometry x="360" y="40" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="t-Nb03gLzpEdLl7TGCnP-3" value="云原生&lt;br&gt;日志" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="t-Nb03gLzpEdLl7TGCnP-1">
-          <mxGeometry x="120" y="200" width="80" height="80" as="geometry"/>
+          <mxGeometry y="200" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="t-Nb03gLzpEdLl7TGCnP-4" value="http/https&lt;br&gt;统一服务" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="t-Nb03gLzpEdLl7TGCnP-1">
-          <mxGeometry x="200" y="200" width="80" height="80" as="geometry"/>
-        </mxCell>
-        <mxCell id="t-Nb03gLzpEdLl7TGCnP-5" value="弱依赖" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="t-Nb03gLzpEdLl7TGCnP-1">
-          <mxGeometry x="640" y="200" width="40" height="40" as="geometry"/>
+          <mxGeometry x="120" y="200" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="t-Nb03gLzpEdLl7TGCnP-6" value="统一登出" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="t-Nb03gLzpEdLl7TGCnP-1">
           <mxGeometry x="360" y="200" width="80" height="80" as="geometry"/>
@@ -158,12 +155,6 @@
             <mxPoint x="250" y="180" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="t-Nb03gLzpEdLl7TGCnP-9" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="t-Nb03gLzpEdLl7TGCnP-1" source="t-Nb03gLzpEdLl7TGCnP-2" target="t-Nb03gLzpEdLl7TGCnP-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="310" as="sourcePoint"/>
-            <mxPoint x="270" y="160" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="t-Nb03gLzpEdLl7TGCnP-10" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="t-Nb03gLzpEdLl7TGCnP-1" source="t-Nb03gLzpEdLl7TGCnP-2" target="t-Nb03gLzpEdLl7TGCnP-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="330" as="sourcePoint"/>
@@ -171,7 +162,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t-Nb03gLzpEdLl7TGCnP-11" value="IE / Chrome&lt;br&gt;兼容性" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="t-Nb03gLzpEdLl7TGCnP-1">
-          <mxGeometry x="440" y="200" width="80" height="80" as="geometry"/>
+          <mxGeometry x="480" y="200" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="t-Nb03gLzpEdLl7TGCnP-12" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="t-Nb03gLzpEdLl7TGCnP-1" source="t-Nb03gLzpEdLl7TGCnP-2" target="t-Nb03gLzpEdLl7TGCnP-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -180,7 +171,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t-Nb03gLzpEdLl7TGCnP-13" value="新的交互界面" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="t-Nb03gLzpEdLl7TGCnP-1">
-          <mxGeometry x="520" y="200" width="80" height="80" as="geometry"/>
+          <mxGeometry x="600" y="200" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="t-Nb03gLzpEdLl7TGCnP-14" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="t-Nb03gLzpEdLl7TGCnP-1" source="t-Nb03gLzpEdLl7TGCnP-2" target="t-Nb03gLzpEdLl7TGCnP-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -189,7 +180,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="t-Nb03gLzpEdLl7TGCnP-15" value="白名单接入" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="t-Nb03gLzpEdLl7TGCnP-1">
-          <mxGeometry x="280" y="200" width="80" height="80" as="geometry"/>
+          <mxGeometry x="240" y="200" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="t-Nb03gLzpEdLl7TGCnP-16" value="" style="endArrow=classic;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;" edge="1" parent="t-Nb03gLzpEdLl7TGCnP-1" source="t-Nb03gLzpEdLl7TGCnP-2" target="t-Nb03gLzpEdLl7TGCnP-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">

@@ -1,10 +1,10 @@
-<mxfile host="www.draw.io" modified="2020-01-21T08:45:17.808Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="ejsgOGbG514xc0ucvbVt" version="12.5.5" type="github" pages="3">
+<mxfile host="www.draw.io" modified="2020-01-21T08:49:55.608Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="ubwqjZ2mBU_Den1x0Osu" version="12.5.5" type="github" pages="3">
   <diagram id="GSeuxdUgdALXQm2dhYr3" name="Page-1">
     <mxGraphModel dx="952" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0"/>
         <mxCell id="1" parent="0"/>
-        <mxCell id="tkULib4JMn5Z1yGUqH1Y-1" value="sso 2.0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+        <mxCell id="tkULib4JMn5Z1yGUqH1Y-1" value="sso 2.0" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="280" y="200" width="80" height="80" as="geometry"/>
         </mxCell>
         <mxCell id="uGIZJZpV3fwfNmWE2ggu-1" value="sso2&lt;br&gt;统一登录" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;strokeColor=#6c8ebf;" vertex="1" parent="1">

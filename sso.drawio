@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-01-22T09:29:20.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="yOZAc4hG-pMVaoY9Kc-3" version="12.5.5" type="github" pages="4">
+<mxfile host="www.draw.io" modified="2020-01-22T09:32:01.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36" etag="3AiODrJZcjS9AZsqMLZR" version="12.5.5" type="github" pages="4">
   <diagram id="GSeuxdUgdALXQm2dhYr3" name="Page-1">
     <mxGraphModel dx="1391" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -216,6 +216,12 @@
         </mxCell>
         <mxCell id="qBJJCh2eHgP6ea9hsSsS-1" value="二维码" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="OGqHTa4bDGA53q7W78PN-1">
           <mxGeometry x="440" y="160" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="qBJJCh2eHgP6ea9hsSsS-2" value="去session&lt;br&gt;依赖" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="OGqHTa4bDGA53q7W78PN-1">
+          <mxGeometry x="560" y="160" width="80" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="qBJJCh2eHgP6ea9hsSsS-3" value="多元化并行" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="OGqHTa4bDGA53q7W78PN-1">
+          <mxGeometry x="680" y="160" width="80" height="80" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
